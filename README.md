@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SATHVIK
 - 👀 I’m interested in Artificial Intelligence and latest technologies.
 - 🌱 I’m currently learning Web Development, IoT, Cloud, AI, ML
+- ✨ I have a goal to make a product that can contribute to real world problems.
 - 📫 How to reach me- (j.sathvik523@gmail.com)
 
 <!---
